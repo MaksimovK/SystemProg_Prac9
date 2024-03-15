@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\kmaki\Что-то по учёбе\Системное программирование\Пр9\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(64,21): warning C4311: приведение типов: усечение указателя из "int *" в "int"
+C:\Users\kmaki\Что-то по учёбе\Системное программирование\Пр9\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(64,21): warning C4302: приведение типов: усечение из "int *" к "int"
+C:\Users\kmaki\Что-то по учёбе\Системное программирование\Пр9\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(65,21): warning C4311: приведение типов: усечение указателя из "int *" в "int"
+C:\Users\kmaki\Что-то по учёбе\Системное программирование\Пр9\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(65,21): warning C4302: приведение типов: усечение из "int *" к "int"
+  ConsoleApplication1.vcxproj -> C:\Users\kmaki\Что-то по учёбе\Системное программирование\Пр9\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
